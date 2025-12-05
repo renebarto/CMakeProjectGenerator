@@ -35,7 +35,7 @@ message(STATUS "\n##############################################################
 message(STATUS "\n** Setting up toolchain **\n--")
 
 project({projectname}
-    DESCRIPTION "{projectname} overall project")
+    DESCRIPTION "{root_project_name} overall project")
 
 set(DEFINES_C
     )
@@ -89,5 +89,17 @@ convert_default_options()
 
 message(STATUS "Settings:")
 message("CMAKE_VERBOSE_MAKEFILE: ${CMAKE_VERBOSE_MAKEFILE}")
+
+message(STATUS "\n** Setup google test **")
+# to prevent a warning with google test, set the default value for policy CMP0048
+message(STATUS "\n## In directory: ${CMAKE_SOURCE_DIR}/externals/googletest/googletest-release-1.10.0")
+set( CMAKE_POLICY_DEFAULT_CMP0048 NEW )
+if (CMAKE_COMPILER_IS_GNUCXX) # Ignore warnings on ABI change in GCC7.1
+    set(CMAKE_CXX_FLAGS_DEBUG "-Wno-psabi -Wall -Wextra -Werror -fPIC -fexceptions -fmessage-length=0 -Wno-psabi -Wno-packed-bitfield-compat -Wno-cast-align -O0 -g")
+    set(CMAKE_CXX_FLAGS_RELEASE -Wno-psabi)
+    set(CMAKE_CXX_FLAGS_RELWITHDEBINFO -Wno-psabi)
+    set(CMAKE_CXX_FLAGS_MINSIZEREL -Wno-psabi)
+endif()
+add_subdirectory(${CMAKE_SOURCE_DIR}/externals/googletest/googletest-release-1.10.0 gtest_binary_dir)
 
 add_subdirectory(code)

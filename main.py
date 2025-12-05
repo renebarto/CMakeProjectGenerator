@@ -120,8 +120,9 @@ class ProjectGenerator:
         self.CreateDirectory(projectRoot)
         definitions = self.definitions.copy()
         template_path = f'{configRoot}/{self.settings['root_cmake_template']}'
-        self.CheckFatal(os.path.exists(template_path), 'Non existing template specified for root_cmake_template.')
+        self.CheckFatal(os.path.exists(template_path), f'Non existing template specified for root_cmake_template: {self.settings['root_cmake_template']}.')
         self.CopyAndFillInTemplate(template_path, f'{projectRoot}/CMakeLists.txt', definitions)
+        self.CopyAndFillInTemplate(f'{configRoot}/CMakeSettings.json', f'{projectRoot}/CMakeSettings.json', definitions)
 
         self.CreateDirectory(codeRoot)
         definitions = self.definitions.copy()
@@ -129,22 +130,24 @@ class ProjectGenerator:
         template_path = f'{configRoot}/{self.settings['subdir_cmake_template']}'
         cmake_path = f'{codeRoot}/CMakeLists.txt'
         definitions = self.definitions.copy()
-        self.CheckFatal(os.path.exists(template_path), 'Non existing template specified for subdir_cmake_template.')
+        self.CheckFatal(os.path.exists(template_path), f'Non existing template specified for subdir_cmake_template: {self.settings['subdir_cmake_template']}.')
         self.CopyAndFillInTemplate(template_path, cmake_path, definitions)
         self.AppendCMakeDirectories(cmake_path, ['applications', 'libraries'])
 
         self.CreateDirectory(appRoot)
         definitions = self.definitions.copy()
-        self.CheckFatal(os.path.exists(template_path), 'Non existing template specified for app_cmake_template.')
         self.CopyAndFillInTemplate(template_path, f'{appRoot}/CMakeLists.txt', definitions)
 
         self.CreateDirectory(libRoot)
         definitions = self.definitions.copy()
-        self.CheckFatal(os.path.exists(template_path), 'Non existing template specified for lib_cmake_template.')
         self.CopyAndFillInTemplate(template_path, f'{libRoot}/CMakeLists.txt', definitions)
 
         source_directory = f'{configRoot}/cmake'
         destination_directory = f'{projectRoot}/cmake'
+        shutil.copytree(source_directory, destination_directory, dirs_exist_ok=True)
+
+        source_directory = f'{configRoot}/externals'
+        destination_directory = f'{projectRoot}/externals'
         shutil.copytree(source_directory, destination_directory, dirs_exist_ok=True)
 
     def CreateApplications(self) -> bool:
@@ -174,7 +177,7 @@ class ProjectGenerator:
             self.AppendCMakeDirectories(applicationsCMakeFile, definitions['applications'])
 
             template_path = f'{configRoot}/{self.settings['app_cmake_template']}'
-            self.CheckFatal(os.path.exists(template_path), 'Non existing template specified for app_cmake_template.')
+            self.CheckFatal(os.path.exists(template_path), f'Non existing template specified for app_cmake_template: {self.settings['app_cmake_template']}.')
             self.CopyAndFillInTemplate(template_path, f'{applicationRoot}/CMakeLists.txt', definitions)
 
             self.CopyAndFillInTemplate(f'{configRoot}/exe_main.cpp', f'{applicationSourceDir}/main.cpp', definitions)
@@ -195,7 +198,6 @@ class ProjectGenerator:
             self.CreateDirectory(f"{libraryRoot}")
             self.CreateDirectory(f"{librarySourceDir}")
             self.CreateDirectory(f"{libraryIncludeDir}")
-            self.CreateDirectory(f"{libraryRoot}/test")
 
             definitions = self.definitions.copy()
             definitions['project_name'] = name
@@ -204,7 +206,7 @@ class ProjectGenerator:
             self.AppendCMakeDirectories(librariesCMakeFile, name)
 
             template_path = f'{configRoot}/{self.settings['lib_cmake_template']}'
-            self.CheckFatal(os.path.exists(template_path), 'Non existing template specified for lib_cmake_template.')
+            self.CheckFatal(os.path.exists(template_path), f'Non existing template specified for lib_cmake_template: {self.settings['lib_cmake_template']}.')
             self.CopyAndFillInTemplate(template_path, f'{libraryRoot}/CMakeLists.txt', definitions)
 
             definitions = self.definitions.copy()
@@ -225,6 +227,39 @@ class ProjectGenerator:
             definitions['project_name'] = name
             definitions['project_description'] = f'{name} library'
             self.CopyAndFillInTemplate(f'{configRoot}/lib.cpp', f'{librarySourceDir}/{name}.cpp', definitions)
+
+            libraryTestRoot = f'{libraryRoot}/test'
+            libraryTestSourceDir = f'{libraryTestRoot}/src'
+            libraryTestIncludeDir = f'{libraryTestRoot}/include'
+            self.CreateDirectory(f"{libraryTestRoot}")
+            self.CreateDirectory(f"{libraryTestSourceDir}")
+            self.CreateDirectory(f"{libraryTestIncludeDir}")
+
+            definitions['project_name'] = f'{name}-test'
+            definitions['project_description'] = f'{name} test application'
+
+            template_path = f'{configRoot}/{self.settings['test_cmake_template']}'
+            self.CheckFatal(os.path.exists(template_path), f'Non existing template specified for test_cmake_template: {self.settings['test_cmake_template']}.')
+            self.CopyAndFillInTemplate(template_path, f'{libraryTestRoot}/CMakeLists.txt', definitions)
+
+            definitions = self.definitions.copy()
+            definitions['filename'] = 'main.cpp'
+            definitions['class'] = ''
+            definitions['description'] = f'{name} library test main source file'
+            definitions['libname'] = name
+            definitions['project_name'] = f'{name}-test'
+            definitions['project_description'] = f'{name} test application'
+            self.CopyAndFillInTemplate(f'{configRoot}/test_main.cpp', f'{libraryTestSourceDir}/main.cpp', definitions)
+
+            definitions = self.definitions.copy()
+            definitions['filename'] = f'{name}Test.cpp'
+            definitions['class'] = f'{name}TestClass'
+            definitions['description'] = f'{name} library test source file'
+            definitions['libname'] = name
+            definitions['project_name'] = f'{name}-test'
+            definitions['project_description'] = f'{name} test application'
+            self.CopyAndFillInTemplate(f'{configRoot}/test.cpp', f'{libraryTestSourceDir}/{name}Test.cpp', definitions)
+
 
 class ArgumentParser(argparse.ArgumentParser):
     def error(self, message):
@@ -252,6 +287,7 @@ def main():
     parser.add_argument('--subdir-cmake-template', type=str, help='Template to use for intermediate CMake file', default='subdir_CMakeLists.txt')
     parser.add_argument('--app-cmake-template', type=str, help='Template to use for application CMake file', default='app_CMakeLists.txt')
     parser.add_argument('--lib-cmake-template', type=str, help='Template to use for library CMake file', default='lib_CMakeLists.txt')
+    parser.add_argument('--test-cmake-template', type=str, help='Template to use for library test CMake file', default='test_CMakeLists.txt')
     
     # Parse arguments
     try:
@@ -285,11 +321,12 @@ def main():
     generator.AddDefinition('namespace', args.namespace)
     generator.AddDefinition('applications', args.apps.split(sep=','))
     generator.AddDefinition('libraries', args.libs.split(sep=','))
-    generator.AddDefinition('projectname', args.project)
+    generator.AddDefinition('root_project_name', args.project)
     generator.AddSetting('root_cmake_template', args.root_cmake_template)
     generator.AddSetting('subdir_cmake_template', args.subdir_cmake_template)
     generator.AddSetting('app_cmake_template', args.app_cmake_template)
     generator.AddSetting('lib_cmake_template', args.lib_cmake_template)
+    generator.AddSetting('test_cmake_template', args.test_cmake_template)
     generator.SetRootPath(rootPath)
 
     if (createProjectRoot):

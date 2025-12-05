@@ -1,0 +1,49 @@
+{
+    "environments": [ {} ],
+    "configurations": [
+        {
+            "name": "{root_project_name}-Debug",
+            "generator": "Ninja",
+            "configurationType": "Debug",
+            "buildRoot": "${projectDir}\\cmake-${name}",
+            "installRoot": "${projectDir}\\output\\install\\${name}",
+            "cmakeCommandArgs": "-DVERBOSE_BUILD=ON",
+            "buildCommandArgs": "",
+            "ctestCommandArgs": "",
+            "inheritEnvironments": [ "msvc_x64" ]
+        },
+        {
+            "name": "{root_project_name}-Release",
+            "generator": "Ninja",
+            "configurationType": "Release",
+            "buildRoot": "${projectDir}\\cmake-${name}",
+            "installRoot": "${projectDir}\\output\\install\\${name}",
+            "cmakeCommandArgs": "-DVERBOSE_BUILD=ON",
+            "buildCommandArgs": "",
+            "ctestCommandArgs": "",
+            "inheritEnvironments": [ "msvc_x64" ]
+        },
+        {
+            "name": "{root_project_name}-RelWithDebInfo",
+            "generator": "Ninja",
+            "configurationType": "RelWithDebInfo",
+            "buildRoot": "${projectDir}\\cmake-${name}",
+            "installRoot": "${projectDir}\\output\\install\\${name}",
+            "cmakeCommandArgs": "-DVERBOSE_BUILD=ON",
+            "buildCommandArgs": "",
+            "ctestCommandArgs": "",
+            "inheritEnvironments": [ "msvc_x64" ]
+        },
+        {
+            "name": "{root_project_name}-MinSizeRel",
+            "generator": "Ninja",
+            "configurationType": "MinSizeRel",
+            "buildRoot": "${projectDir}\\cmake-${name}",
+            "installRoot": "${projectDir}\\output\\install\\${name}",
+            "cmakeCommandArgs": "-DVERBOSE_BUILD=ON",
+            "buildCommandArgs": "",
+            "ctestCommandArgs": "",
+            "inheritEnvironments": [ "msvc_x64" ]
+        }
+    ]
+}
