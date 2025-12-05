@@ -1,0 +1,1439 @@
+2025-12-04 22:05:49,766 [MainThread  ] [INFO ]  CMakeProjectGenerator
+2025-12-04 22:06:33,321 [MainThread  ] [INFO ]  CMakeProjectGenerator starting
+2025-12-04 22:06:33,322 [MainThread  ] [INFO ]  CMakeProjectGenerator done.
+2025-12-04 22:12:22,660 [MainThread  ] [INFO ]  CMakeProjectGenerator starting
+2025-12-04 22:13:33,666 [MainThread  ] [INFO ]  CMakeProjectGenerator starting
+2025-12-04 22:13:49,496 [MainThread  ] [INFO ]  CMakeProjectGenerator starting
+2025-12-04 22:13:50,582 [MainThread  ] [WARNI]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 22:14:13,701 [MainThread  ] [INFO ]  CMakeProjectGenerator starting
+2025-12-04 22:14:14,794 [MainThread  ] [WARNI]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 22:14:16,074 [MainThread  ] [INFO ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:14:18,802 [MainThread  ] [ERROR]  Cannot create directory D:/Projects/Private/Dummy, exiting...
+2025-12-04 22:14:43,888 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 22:14:45,802 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 22:14:46,927 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:14:53,946 [MainThread  ] [ERROR  ]  Cannot create directory D:/Projects/Private/Dummy, exiting...
+2025-12-04 22:37:15,988 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 22:37:23,197 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 22:37:24,745 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:37:27,813 [MainThread  ] [ERROR  ]  Cannot create directory D:/Projects/Private/Dummy, exiting...
+2025-12-04 22:37:31,397 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 22:37:52,114 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 22:37:52,653 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 22:37:52,654 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:37:52,654 [MainThread  ] [ERROR  ]  Cannot create directory D:/Projects/Private/Dummy, exiting...
+2025-12-04 22:37:52,654 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 22:37:52,654 [MainThread  ] [INFO   ]  Create library mylib
+2025-12-04 22:37:52,654 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-04 22:38:05,720 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 22:38:10,186 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 22:38:10,186 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:38:10,186 [MainThread  ] [ERROR  ]  Cannot create directory D:/Projects/Private/Dummy, exiting...
+2025-12-04 22:38:10,187 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 22:38:10,187 [MainThread  ] [INFO   ]  Create library mylib1
+2025-12-04 22:38:10,187 [MainThread  ] [INFO   ]  Create library mylib2
+2025-12-04 22:38:10,187 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-04 22:59:30,470 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 22:59:30,470 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 22:59:30,470 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:30,470 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 22:59:30,470 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:30,471 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:30,471 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:30,471 [MainThread  ] [INFO   ]  Create library mylib1
+2025-12-04 22:59:30,471 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:30,471 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:30,471 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:30,471 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:30,472 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:30,472 [MainThread  ] [INFO   ]  Create library mylib2
+2025-12-04 22:59:30,472 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:30,472 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:30,472 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:30,472 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:30,472 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:30,472 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-04 22:59:55,208 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 22:59:55,208 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 22:59:55,208 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:55,209 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 22:59:55,209 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:55,209 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:55,209 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:55,209 [MainThread  ] [INFO   ]  Create library mylib1
+2025-12-04 22:59:55,209 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:55,210 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:55,210 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:55,210 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:55,210 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:55,210 [MainThread  ] [INFO   ]  Create library mylib2
+2025-12-04 22:59:55,210 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:55,210 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:55,211 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:55,211 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:55,211 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 22:59:55,211 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-04 23:00:07,957 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 23:00:07,957 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 23:00:07,957 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 23:00:07,957 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 23:00:07,958 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-04 23:00:07,958 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-04 23:00:07,958 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-04 23:00:07,958 [MainThread  ] [INFO   ]  Create library mylib1
+2025-12-04 23:00:07,958 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1
+2025-12-04 23:00:07,958 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/src
+2025-12-04 23:00:07,958 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/include
+2025-12-04 23:00:07,958 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/include/mylib1
+2025-12-04 23:00:07,959 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/test
+2025-12-04 23:00:07,959 [MainThread  ] [INFO   ]  Create library mylib2
+2025-12-04 23:00:07,959 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2
+2025-12-04 23:00:07,959 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/src
+2025-12-04 23:00:07,959 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/include
+2025-12-04 23:00:07,960 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/include/mylib2
+2025-12-04 23:00:07,960 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/test
+2025-12-04 23:00:07,960 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-04 23:44:22,718 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 23:44:22,718 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 23:44:22,719 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 23:44:22,719 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 23:44:22,719 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-04 23:44:22,719 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-04 23:44:22,719 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-04 23:45:23,484 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 23:45:23,484 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 23:45:23,485 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 23:45:23,485 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 23:45:23,485 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-04 23:45:23,485 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-04 23:45:23,485 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-04 23:46:47,935 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 23:46:47,935 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 23:46:47,936 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 23:46:47,936 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 23:46:47,936 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-04 23:46:47,936 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-04 23:46:47,936 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-04 23:47:57,453 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 23:47:57,454 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 23:47:57,454 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 23:47:57,454 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 23:47:57,454 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-04 23:47:57,455 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-04 23:47:57,455 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-04 23:48:19,104 [MainThread  ] [INFO   ]  Create library mylib1
+2025-12-04 23:48:19,105 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1
+2025-12-04 23:48:19,105 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/src
+2025-12-04 23:48:19,105 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/include/mylib1
+2025-12-04 23:48:19,106 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/test
+2025-12-04 23:48:19,107 [MainThread  ] [INFO   ]  Create library mylib2
+2025-12-04 23:48:19,107 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2
+2025-12-04 23:48:19,107 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/src
+2025-12-04 23:48:19,107 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/include/mylib2
+2025-12-04 23:48:19,108 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/test
+2025-12-04 23:48:20,088 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-04 23:52:32,340 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 23:52:33,845 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 23:52:33,845 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 23:52:33,845 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 23:52:33,845 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-04 23:52:33,845 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-04 23:52:33,846 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-04 23:52:35,229 [MainThread  ] [INFO   ]  Create library mylib1
+2025-12-04 23:52:35,248 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1
+2025-12-04 23:52:35,248 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/src
+2025-12-04 23:52:35,248 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/include/mylib1
+2025-12-04 23:52:35,249 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/test
+2025-12-04 23:52:35,250 [MainThread  ] [INFO   ]  Create library mylib2
+2025-12-04 23:52:35,250 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2
+2025-12-04 23:52:35,250 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/src
+2025-12-04 23:52:35,250 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/include/mylib2
+2025-12-04 23:52:35,250 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/test
+2025-12-04 23:52:35,251 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-04 23:53:16,009 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 23:53:23,725 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 23:53:23,726 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 23:53:23,726 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 23:53:23,727 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-04 23:53:23,727 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-04 23:53:23,727 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-04 23:53:51,209 [MainThread  ] [INFO   ]  Create library mylib1
+2025-12-04 23:53:51,209 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1
+2025-12-04 23:53:51,210 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/src
+2025-12-04 23:53:51,210 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/include/mylib1
+2025-12-04 23:53:51,210 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/test
+2025-12-04 23:53:51,211 [MainThread  ] [INFO   ]  Create library mylib2
+2025-12-04 23:53:51,211 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2
+2025-12-04 23:53:51,211 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/src
+2025-12-04 23:53:51,211 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/include/mylib2
+2025-12-04 23:53:51,212 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/test
+2025-12-04 23:53:51,212 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-04 23:55:06,714 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 23:55:06,714 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 23:55:06,714 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 23:55:06,714 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 23:55:06,714 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-04 23:55:06,714 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-04 23:55:06,715 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-04 23:55:06,715 [MainThread  ] [INFO   ]  Create library mylib1
+2025-12-04 23:55:06,715 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1
+2025-12-04 23:55:06,715 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/src
+2025-12-04 23:55:06,715 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/include/mylib1
+2025-12-04 23:55:06,715 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/test
+2025-12-04 23:55:06,716 [MainThread  ] [INFO   ]  Create library mylib2
+2025-12-04 23:55:06,716 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2
+2025-12-04 23:55:06,716 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/src
+2025-12-04 23:55:06,716 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/include/mylib2
+2025-12-04 23:55:06,716 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/test
+2025-12-04 23:55:06,717 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-04 23:55:31,746 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 23:55:31,746 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 23:55:31,746 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 23:55:31,747 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 23:55:31,747 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-04 23:55:31,747 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-04 23:55:31,747 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-04 23:55:31,747 [MainThread  ] [INFO   ]  Create library mylib1
+2025-12-04 23:55:31,747 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1
+2025-12-04 23:55:31,747 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/src
+2025-12-04 23:55:31,748 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/include/mylib1
+2025-12-04 23:55:31,748 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/test
+2025-12-04 23:55:31,748 [MainThread  ] [INFO   ]  Create library mylib2
+2025-12-04 23:55:31,748 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2
+2025-12-04 23:55:31,748 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/src
+2025-12-04 23:55:31,748 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/include/mylib2
+2025-12-04 23:55:31,749 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/test
+2025-12-04 23:55:31,749 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-04 23:57:52,429 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 23:57:52,429 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 23:57:52,429 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 23:57:52,429 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 23:57:52,429 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-04 23:57:52,430 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-04 23:57:52,430 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-04 23:57:52,430 [MainThread  ] [INFO   ]  Create library mylib1
+2025-12-04 23:57:52,430 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1
+2025-12-04 23:57:52,430 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/src
+2025-12-04 23:57:52,430 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/include/mylib1
+2025-12-04 23:57:52,431 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/test
+2025-12-04 23:57:52,431 [MainThread  ] [INFO   ]  Create library mylib2
+2025-12-04 23:57:52,431 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2
+2025-12-04 23:57:52,431 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/src
+2025-12-04 23:57:52,431 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/include/mylib2
+2025-12-04 23:57:52,431 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/test
+2025-12-04 23:57:52,432 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-04 23:59:23,316 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-04 23:59:23,316 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-04 23:59:23,316 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-04 23:59:23,316 [MainThread  ] [INFO   ]  Create application demo
+2025-12-04 23:59:23,316 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-04 23:59:23,316 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-04 23:59:23,317 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-04 23:59:23,317 [MainThread  ] [INFO   ]  Create library mylib1
+2025-12-04 23:59:23,317 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1
+2025-12-04 23:59:23,317 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/src
+2025-12-04 23:59:23,317 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/include/mylib1
+2025-12-04 23:59:23,318 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib1/test
+2025-12-04 23:59:23,318 [MainThread  ] [INFO   ]  Create library mylib2
+2025-12-04 23:59:23,318 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2
+2025-12-04 23:59:23,318 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/src
+2025-12-04 23:59:23,318 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/include/mylib2
+2025-12-04 23:59:23,319 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib2/test
+2025-12-04 23:59:23,319 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 00:01:39,698 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:01:39,698 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:01:39,699 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:01:39,699 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:01:39,699 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:01:39,699 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:01:39,699 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:01:39,699 [MainThread  ] [INFO   ]  Create library mylib
+2025-12-05 00:01:39,700 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib
+2025-12-05 00:01:39,700 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/src
+2025-12-05 00:01:39,700 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/include/mylib
+2025-12-05 00:01:39,700 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/test
+2025-12-05 00:01:39,702 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 00:13:00,743 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:13:00,743 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:13:00,744 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:13:08,113 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:13:09,639 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:13:09,961 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:13:10,409 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:14:24,351 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:14:24,352 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:14:24,352 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:14:24,352 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:14:24,353 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:14:24,353 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:14:24,353 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:16:56,097 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:16:56,098 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:16:56,098 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:16:56,098 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:16:56,098 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:16:56,098 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:16:56,098 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:19:33,182 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:19:33,182 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:19:33,182 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:19:33,182 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:19:33,183 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:19:33,183 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:19:33,183 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:19:33,183 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:19:33,183 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:19:33,183 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:19:33,183 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:19:33,183 [MainThread  ] [INFO   ]  Replace field includes
+2025-12-05 00:19:33,184 [MainThread  ] [INFO   ]  Create library demo
+2025-12-05 00:19:33,184 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo
+2025-12-05 00:19:33,184 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo/src
+2025-12-05 00:19:33,184 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo/include/demo
+2025-12-05 00:19:33,184 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo/test
+2025-12-05 00:19:33,184 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:19:33,184 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:19:33,184 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:19:33,184 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:19:33,185 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:19:33,185 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:19:33,185 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:19:33,185 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:19:33,185 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 00:20:13,950 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:20:13,951 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:20:13,951 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:20:13,951 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:20:13,951 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:20:13,951 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:20:13,951 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:20:29,803 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:20:29,804 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:20:29,804 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:20:29,804 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:20:29,804 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:20:29,804 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:20:29,805 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:20:29,805 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:22:00,524 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:22:00,525 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:22:00,526 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:22:00,526 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:22:00,526 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:22:00,526 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:22:00,526 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:22:00,527 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:22:04,549 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:22:17,145 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:22:17,146 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:22:17,146 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:22:17,146 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:22:17,147 [MainThread  ] [INFO   ]  Replace field includes
+2025-12-05 00:23:22,610 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:23:22,611 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:23:22,611 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:23:22,611 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:23:22,611 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:23:22,612 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:23:22,612 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:23:22,612 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:23:22,612 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:23:22,612 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:23:22,612 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:23:22,612 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:23:22,612 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:23:22,613 [MainThread  ] [INFO   ]  Replace field includes
+2025-12-05 00:24:17,202 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:24:17,203 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:24:17,203 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:24:17,203 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:24:17,203 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:24:17,203 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:24:17,203 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:24:17,204 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:24:17,204 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:24:17,204 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:24:17,204 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:24:17,204 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:24:17,204 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:24:17,204 [MainThread  ] [INFO   ]  Replace field includes
+2025-12-05 00:24:42,892 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:24:42,892 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:24:42,892 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:24:42,893 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:24:42,893 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:24:42,893 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:24:42,893 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:24:42,893 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:24:42,894 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:24:42,894 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:24:42,894 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:24:42,894 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:24:42,894 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:24:42,894 [MainThread  ] [INFO   ]  Replace field includes
+2025-12-05 00:24:49,469 [MainThread  ] [INFO   ]  Create library demo
+2025-12-05 00:24:49,469 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo
+2025-12-05 00:24:49,469 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo/src
+2025-12-05 00:24:49,469 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo/include/demo
+2025-12-05 00:24:49,469 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo/test
+2025-12-05 00:24:49,470 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:24:49,470 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:24:49,470 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:24:49,470 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:24:49,470 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:24:49,470 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:24:49,471 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:24:49,471 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:24:49,471 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:24:49,471 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:24:49,471 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:24:49,471 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:24:49,471 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 00:26:03,342 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:26:03,343 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:26:03,343 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:26:03,343 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:26:03,344 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:26:03,344 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:26:03,344 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:26:29,152 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:26:29,153 [MainThread  ] [INFO   ]  Replace field includes
+2025-12-05 00:26:56,628 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:26:56,628 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:26:56,628 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:26:56,629 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:26:56,629 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:26:56,629 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:26:56,629 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:27:00,391 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:27:00,393 [MainThread  ] [INFO   ]  Replace field includes
+2025-12-05 00:27:35,345 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:27:38,317 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:27:38,317 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:27:38,318 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:27:38,318 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:27:38,319 [MainThread  ] [INFO   ]  Create library demo
+2025-12-05 00:27:38,319 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo
+2025-12-05 00:27:38,320 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo/src
+2025-12-05 00:27:38,320 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo/include/demo
+2025-12-05 00:27:38,320 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo/test
+2025-12-05 00:27:38,320 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:27:38,321 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:27:38,321 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:27:38,321 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:27:38,321 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:27:38,321 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:27:38,321 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:27:38,323 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:27:38,323 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:27:38,323 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:27:38,323 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:27:38,324 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:27:38,324 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 00:28:20,729 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:28:20,729 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:28:20,730 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:28:20,730 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:28:20,730 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:28:20,730 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:28:20,730 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:28:23,184 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:28:23,184 [MainThread  ] [INFO   ]  Replace field includes
+2025-12-05 00:30:12,416 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:30:32,913 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:30:35,015 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:31:20,104 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:31:34,525 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:33:16,559 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:33:16,560 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:33:16,560 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:33:16,560 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:33:16,560 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:33:16,561 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:33:16,561 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:33:18,421 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:33:18,422 [MainThread  ] [INFO   ]  Replace field includes
+2025-12-05 00:33:21,260 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:33:21,262 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:33:21,262 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:33:21,262 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:33:21,263 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:33:21,263 [MainThread  ] [INFO   ]  Create library demo
+2025-12-05 00:33:21,263 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo
+2025-12-05 00:33:21,263 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo/src
+2025-12-05 00:33:21,264 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo/include/demo
+2025-12-05 00:33:21,264 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/demo/test
+2025-12-05 00:33:21,264 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:33:21,264 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:33:21,264 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:33:21,265 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:33:21,265 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:33:21,265 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:33:21,265 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:33:21,265 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:33:21,265 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:33:21,265 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:33:21,265 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:33:21,266 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:33:21,266 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 00:33:21,266 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 00:35:18,577 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:35:34,068 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:35:34,069 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:35:34,069 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:35:34,069 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:35:34,069 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:35:34,070 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:35:34,070 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:35:34,070 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:35:34,070 [MainThread  ] [INFO   ]  Replace field includes
+2025-12-05 00:35:34,070 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:35:34,070 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:35:34,070 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:35:34,070 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:35:34,071 [MainThread  ] [INFO   ]  Create library mylib
+2025-12-05 00:35:34,071 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib
+2025-12-05 00:35:34,071 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/src
+2025-12-05 00:35:34,071 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/include/mylib
+2025-12-05 00:35:34,071 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/test
+2025-12-05 00:35:34,072 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:35:34,072 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:35:34,072 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:35:34,072 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:35:34,072 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:35:34,072 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:35:34,072 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:35:34,073 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:35:34,073 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:35:34,073 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:35:34,073 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:35:34,073 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:35:34,073 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 00:35:34,073 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 00:37:43,319 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:37:43,319 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:37:43,319 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:37:43,319 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:37:43,319 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:37:43,320 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:37:43,320 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:37:43,320 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:37:43,320 [MainThread  ] [INFO   ]  Replace field includes
+2025-12-05 00:37:43,320 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:37:43,320 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:37:43,320 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:37:43,320 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:37:43,321 [MainThread  ] [INFO   ]  Create library mylib
+2025-12-05 00:37:43,321 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib
+2025-12-05 00:37:43,321 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/src
+2025-12-05 00:37:43,321 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/include/mylib
+2025-12-05 00:37:43,321 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/test
+2025-12-05 00:37:43,322 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:37:43,322 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:37:43,322 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:37:43,322 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:37:43,322 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:37:43,322 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:37:43,322 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 00:37:43,322 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:37:43,322 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:37:43,322 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:37:43,322 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:37:43,322 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:37:43,322 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:37:43,323 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 00:37:43,323 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 00:38:22,898 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 00:38:22,898 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 00:38:22,898 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 00:38:22,898 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 00:38:22,898 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 00:38:22,898 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 00:38:22,898 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 00:38:22,899 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:38:22,899 [MainThread  ] [INFO   ]  Replace field includes
+2025-12-05 00:38:22,899 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:38:22,899 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:38:22,899 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:38:22,899 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:38:22,899 [MainThread  ] [INFO   ]  Create library mylib
+2025-12-05 00:38:22,899 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib
+2025-12-05 00:38:22,899 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/src
+2025-12-05 00:38:22,900 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/include/mylib
+2025-12-05 00:38:22,900 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/test
+2025-12-05 00:38:22,900 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:38:22,900 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:38:22,900 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:38:22,900 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:38:22,900 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:38:22,900 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:38:22,900 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 00:38:22,901 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 00:38:22,901 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 00:38:22,901 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 00:38:22,901 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 00:38:22,901 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 00:38:22,901 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 00:38:22,901 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 00:38:22,901 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 17:30:12,239 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 17:31:00,585 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 17:31:38,104 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 17:31:55,296 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 17:39:26,715 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 17:39:29,308 [MainThread  ] [ERROR  ]  No mode selected
+2025-12-05 17:41:35,085 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 17:42:31,096 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 17:44:47,960 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 17:44:48,668 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 17:44:48,669 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 17:44:48,670 [MainThread  ] [INFO   ]  Replace field applications
+2025-12-05 17:44:48,670 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 17:44:48,670 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 17:44:48,670 [MainThread  ] [INFO   ]  Replace field applications
+2025-12-05 17:44:48,670 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 17:44:48,671 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 17:44:48,671 [MainThread  ] [INFO   ]  Replace field applications
+2025-12-05 17:44:48,671 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 18:17:50,034 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 18:17:53,750 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 18:18:00,767 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 18:18:26,474 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 18:22:03,668 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 18:22:03,668 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 18:22:05,055 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 18:22:05,056 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 18:22:05,057 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 18:22:17,487 [MainThread  ] [INFO   ]  Replace field subdirs
+2025-12-05 18:23:48,330 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 18:23:48,332 [MainThread  ] [WARNING]  Path D:/Projects/Private/Dummy already exists, will not overwrite, exiting...
+2025-12-05 18:23:50,543 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 18:23:50,553 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 18:23:50,553 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 18:23:53,912 [MainThread  ] [INFO   ]  Replace field subdirs
+2025-12-05 18:23:54,727 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 18:24:06,103 [MainThread  ] [INFO   ]  Replace field subdirs
+2025-12-05 18:24:08,759 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 18:24:19,138 [MainThread  ] [INFO   ]  Replace field subdirs
+2025-12-05 18:52:06,491 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 18:52:06,492 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 18:52:06,492 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 18:52:06,492 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 18:52:06,492 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 18:52:06,493 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 18:52:06,493 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 18:52:06,494 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 18:52:26,842 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 18:52:40,467 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 18:52:41,715 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 18:52:42,709 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 18:53:16,569 [MainThread  ] [ERROR  ]  Non existing template specified for app_cmake_template.
+2025-12-05 18:53:16,579 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 18:53:37,736 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 18:53:37,737 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 18:53:37,737 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 18:53:37,737 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 18:53:37,738 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 18:53:37,738 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 18:53:37,738 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 18:53:37,739 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 18:53:38,299 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 18:53:38,299 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 18:53:38,299 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 18:53:38,300 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 18:53:38,301 [MainThread  ] [ERROR  ]  Non existing template specified for app_cmake_template.
+2025-12-05 18:53:38,301 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 18:55:51,885 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 18:55:51,886 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 18:55:51,886 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 18:55:51,886 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 18:55:51,886 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 18:55:51,887 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 18:55:51,887 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 18:55:51,888 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 18:55:52,718 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 18:55:52,719 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 18:55:52,719 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 18:55:52,719 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 18:55:52,720 [MainThread  ] [ERROR  ]  Non existing template specified for app_cmake_template.
+2025-12-05 18:55:52,720 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 18:57:13,224 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 18:57:13,225 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 18:57:13,225 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 18:57:13,225 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 18:57:13,225 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 18:57:13,226 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 18:57:13,226 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 18:57:13,226 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 18:57:13,743 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 18:57:13,744 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 18:57:13,744 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 18:57:13,744 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 18:57:17,826 [MainThread  ] [ERROR  ]  Non existing template specified for app_cmake_template.
+2025-12-05 18:57:18,586 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 18:57:30,285 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 18:57:30,286 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 18:57:30,287 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 18:57:30,287 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 18:57:30,287 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 18:57:30,287 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 18:57:30,288 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 18:57:30,288 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 18:58:02,769 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 18:58:04,930 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 18:58:04,930 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 18:58:04,930 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 18:59:43,537 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 18:59:43,537 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 18:59:43,537 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 18:59:43,537 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 18:59:43,538 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 18:59:43,538 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 18:59:43,538 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 18:59:43,539 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 18:59:44,602 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 18:59:44,602 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 18:59:44,602 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 18:59:44,603 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 19:05:06,736 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:05:06,737 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 19:05:06,737 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 19:05:06,737 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 19:05:06,738 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 19:05:06,738 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 19:05:06,738 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 19:05:06,739 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 19:05:54,518 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 19:05:54,519 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 19:05:54,519 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 19:05:54,520 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 19:05:58,807 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 19:05:58,813 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 19:05:58,814 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 19:05:58,814 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 19:05:58,815 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:07:58,617 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:07:58,618 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 19:07:58,618 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 19:07:58,618 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 19:07:58,619 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 19:07:58,619 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 19:07:58,620 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 19:07:58,620 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 19:08:42,314 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:08:42,314 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 19:08:42,314 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 19:08:42,315 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 19:08:42,315 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 19:08:42,315 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 19:08:42,316 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 19:08:42,316 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 19:09:26,808 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:09:26,809 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 19:09:26,809 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 19:09:26,809 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 19:09:26,810 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 19:09:26,810 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 19:09:26,810 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 19:09:26,811 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 19:09:45,213 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 19:09:45,977 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 19:09:46,214 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 19:09:46,690 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 19:09:57,791 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 19:09:57,791 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 19:09:57,791 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 19:09:57,792 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 19:09:57,792 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:12:25,120 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:12:25,122 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 19:12:25,122 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 19:12:25,122 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 19:12:25,122 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 19:12:25,123 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 19:12:25,123 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 19:12:25,124 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 19:12:25,126 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 19:12:25,126 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 19:12:25,126 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 19:12:25,126 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 19:12:25,127 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 19:12:25,127 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 19:12:25,127 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 19:12:25,127 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 19:12:25,127 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:12:25,127 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 19:14:31,620 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:14:31,621 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 19:14:31,621 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 19:14:31,621 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 19:14:31,622 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 19:14:31,622 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 19:14:31,623 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 19:14:31,623 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 19:14:31,625 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 19:14:31,625 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 19:14:31,625 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 19:14:31,625 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 19:14:31,625 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 19:14:31,626 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 19:14:31,626 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 19:14:31,626 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 19:14:31,626 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:14:31,626 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 19:14:32,041 [MainThread  ] [INFO   ]  Create library mylib
+2025-12-05 19:14:32,042 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib
+2025-12-05 19:14:32,042 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/src
+2025-12-05 19:14:32,042 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/include/mylib
+2025-12-05 19:14:32,047 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/test
+2025-12-05 19:17:35,824 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:17:35,825 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 19:17:35,825 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 19:17:35,825 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 19:17:35,826 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 19:17:35,826 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 19:17:35,827 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 19:17:35,827 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 19:17:35,829 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 19:17:35,829 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 19:17:35,829 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 19:17:35,829 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 19:17:49,045 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 19:17:49,046 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:17:51,332 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 19:17:51,340 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 19:17:51,340 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 19:17:51,340 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 19:17:51,341 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:17:51,341 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 19:22:34,826 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:22:34,826 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 19:22:34,827 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 19:22:34,827 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 19:22:34,827 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 19:22:34,827 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 19:22:34,828 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 19:22:34,828 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 19:22:34,830 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 19:22:34,830 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 19:22:34,830 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 19:22:34,830 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 19:22:34,831 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 19:22:34,831 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:22:34,831 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 19:22:34,831 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 19:22:34,831 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 19:22:34,831 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 19:22:34,832 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:22:34,832 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 19:24:18,592 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:24:18,593 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 19:24:18,593 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 19:24:18,593 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 19:24:18,594 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 19:24:18,594 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 19:24:18,595 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 19:24:18,595 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 19:24:18,597 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 19:24:18,597 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 19:24:18,597 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 19:24:18,598 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 19:24:18,598 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 19:24:18,598 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:24:18,599 [MainThread  ] [INFO   ]  Replace field name
+2025-12-05 19:24:18,599 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 19:24:18,599 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 19:24:18,599 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 19:24:18,600 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 19:24:18,600 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:24:18,600 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 19:27:46,215 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:27:46,217 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 19:27:46,217 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 19:27:46,218 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 19:27:46,218 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 19:27:46,219 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 19:27:46,219 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 19:27:46,220 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 19:27:46,221 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 19:27:46,222 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 19:27:46,222 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 19:27:46,222 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 19:27:46,223 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 19:27:46,223 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:27:46,223 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 19:27:46,223 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 19:27:46,223 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 19:27:46,224 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 19:27:46,224 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 19:27:46,224 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 19:27:46,224 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:27:46,224 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 19:28:16,636 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:28:16,637 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 19:28:16,637 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 19:28:16,637 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 19:28:16,637 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 19:28:16,637 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 19:28:16,638 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 19:28:16,638 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 19:28:16,640 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 19:28:16,640 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 19:28:16,640 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 19:28:16,640 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 19:28:16,641 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 19:28:16,641 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:28:16,641 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 19:28:16,641 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 19:28:16,641 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 19:28:16,641 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 19:28:16,641 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 19:28:16,641 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 19:28:16,642 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:28:16,642 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 19:28:16,642 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 19:28:51,203 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:28:51,204 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 19:28:51,204 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 19:28:51,204 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 19:28:51,204 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 19:28:51,205 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 19:28:51,205 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 19:28:51,205 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 19:28:51,207 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 19:28:51,207 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 19:28:51,207 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 19:28:51,208 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 19:28:51,208 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 19:28:51,208 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:28:51,208 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 19:28:51,208 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 19:28:51,208 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 19:28:51,208 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 19:28:51,209 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 19:28:51,209 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 19:28:51,209 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:28:51,209 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 19:28:51,209 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 19:33:05,442 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:33:05,442 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 19:33:05,442 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 19:33:05,442 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 19:33:05,443 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 19:33:05,443 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 19:33:05,444 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 19:33:05,444 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 19:33:05,447 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 19:33:05,447 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 19:33:05,447 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 19:33:05,447 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 19:33:05,448 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 19:33:05,448 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:33:05,448 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 19:33:05,448 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 19:33:05,449 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 19:33:05,449 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 19:33:05,449 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 19:33:05,449 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 19:33:05,449 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:33:05,449 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 19:33:05,449 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 19:33:05,450 [MainThread  ] [INFO   ]  Create library mylib
+2025-12-05 19:33:05,450 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib
+2025-12-05 19:33:05,450 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/src
+2025-12-05 19:33:05,450 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/include/mylib
+2025-12-05 19:33:05,450 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/test
+2025-12-05 19:34:10,793 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:34:10,793 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 19:34:10,793 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 19:34:10,795 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy
+2025-12-05 19:34:10,795 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 19:34:10,796 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code
+2025-12-05 19:34:10,796 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications
+2025-12-05 19:34:10,797 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries
+2025-12-05 19:34:10,799 [MainThread  ] [INFO   ]  Create application demo
+2025-12-05 19:34:10,799 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo
+2025-12-05 19:34:10,799 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/src
+2025-12-05 19:34:10,799 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo/include
+2025-12-05 19:34:10,800 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 19:34:10,800 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:34:10,800 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 19:34:10,800 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 19:34:10,800 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 19:34:10,800 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 19:34:10,801 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 19:34:10,801 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 19:34:10,801 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:34:10,801 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 19:34:10,801 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 19:34:10,801 [MainThread  ] [INFO   ]  Create library mylib
+2025-12-05 19:34:10,801 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib
+2025-12-05 19:34:10,801 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/src
+2025-12-05 19:34:10,802 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/include/mylib
+2025-12-05 19:34:10,802 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/test
+2025-12-05 19:34:27,393 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 19:34:27,394 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 19:34:27,394 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 19:34:54,038 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 19:34:54,048 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 19:34:54,048 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 19:34:54,048 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 19:34:54,048 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 19:34:54,049 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:34:54,049 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 19:35:21,873 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 19:35:21,878 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 19:35:21,878 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 19:35:21,878 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 19:35:21,878 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 19:35:21,879 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 19:35:21,879 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 19:35:43,477 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 19:42:07,509 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:42:31,037 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 19:42:31,037 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy already exists, will not overwrite.
+2025-12-05 19:42:31,037 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 20:43:09,130 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 20:43:09,131 [MainThread  ] [INFO   ]  Create application demo2
+2025-12-05 20:43:09,131 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo2
+2025-12-05 20:43:09,131 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo2/src
+2025-12-05 20:43:09,131 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/applications/demo2/include
+2025-12-05 20:43:09,132 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:43:09,132 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:43:09,132 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:43:09,132 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:43:09,132 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:43:09,132 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:43:09,132 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:43:09,132 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:43:09,133 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:43:09,133 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:43:09,133 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:43:09,133 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 20:44:46,776 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 20:44:46,776 [MainThread  ] [INFO   ]  Create library lib2
+2025-12-05 20:44:46,777 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib2
+2025-12-05 20:44:46,777 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib2/src
+2025-12-05 20:44:46,777 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib2/include/lib2
+2025-12-05 20:44:46,780 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib2/test
+2025-12-05 20:44:46,780 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:44:46,780 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:44:46,780 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:44:46,781 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:44:46,781 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:44:46,781 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:44:46,781 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:44:46,781 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:44:46,781 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:44:46,781 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:44:46,782 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:44:46,782 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:44:46,782 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:44:46,782 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:44:46,782 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:44:46,782 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:44:46,782 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:44:46,783 [MainThread  ] [INFO   ]  Create library lib3
+2025-12-05 20:44:46,783 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib3
+2025-12-05 20:44:46,783 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib3/src
+2025-12-05 20:44:46,783 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib3/include/lib3
+2025-12-05 20:44:46,784 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib3/test
+2025-12-05 20:44:46,784 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:44:46,784 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:44:46,784 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:44:46,785 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:44:46,785 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:44:46,785 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:44:46,785 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:44:46,785 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:44:46,785 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:44:46,785 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:44:46,786 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:44:46,786 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:44:46,786 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:44:46,786 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:44:46,786 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:44:46,786 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:44:46,786 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:44:46,786 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 20:45:15,328 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 20:45:15,328 [MainThread  ] [INFO   ]  Create library mylib
+2025-12-05 20:45:15,328 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib
+2025-12-05 20:45:15,329 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/src
+2025-12-05 20:45:15,329 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/include/mylib
+2025-12-05 20:45:15,329 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/mylib/test
+2025-12-05 20:45:15,329 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:45:15,329 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:45:15,330 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:45:15,330 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:45:15,330 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:45:15,330 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:45:15,330 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:45:15,330 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:45:15,330 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:45:15,330 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:45:15,331 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:45:15,331 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:45:15,331 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:45:15,331 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:45:15,331 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:45:15,331 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:45:15,331 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:45:15,331 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 20:46:28,430 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 20:46:28,430 [MainThread  ] [INFO   ]  Create library mylib
+2025-12-05 20:46:28,431 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy/code/libraries/mylib/src already exists, will not overwrite.
+2025-12-05 20:46:28,431 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 20:46:37,244 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 20:46:37,244 [MainThread  ] [INFO   ]  Create application demo2
+2025-12-05 20:46:37,245 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy/code/applications/demo2 already exists, will not overwrite.
+2025-12-05 20:46:37,245 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 20:47:24,550 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 20:47:46,955 [MainThread  ] [INFO   ]  Create library lib2
+2025-12-05 20:47:46,969 [MainThread  ] [ERROR  ]  Path D:/Projects/Private/Dummy/code/libraries/lib2/src already exists, will not overwrite.
+2025-12-05 20:47:46,969 [MainThread  ] [ERROR  ]  Exiting...
+2025-12-05 20:48:09,499 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 20:48:10,601 [MainThread  ] [INFO   ]  Create library lib2
+2025-12-05 20:48:10,602 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib2
+2025-12-05 20:48:10,603 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib2/src
+2025-12-05 20:48:10,603 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib2/include/lib2
+2025-12-05 20:48:10,604 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib2/test
+2025-12-05 20:48:18,216 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:48:18,229 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:48:18,229 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:48:18,230 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:48:18,230 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:48:18,230 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:48:18,230 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:48:18,230 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:48:18,230 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:48:18,230 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:48:18,231 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:48:18,231 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:48:18,231 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:48:18,231 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:48:18,231 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:48:18,231 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:48:18,231 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:48:22,400 [MainThread  ] [INFO   ]  Create library lib3
+2025-12-05 20:48:22,400 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib3
+2025-12-05 20:48:22,401 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib3/src
+2025-12-05 20:48:22,401 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib3/include/lib3
+2025-12-05 20:48:22,402 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib3/test
+2025-12-05 20:48:23,143 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:48:23,143 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:48:23,144 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:48:23,145 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:48:23,145 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:48:23,145 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:48:23,145 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:48:23,145 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:48:23,145 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:48:23,146 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:48:23,146 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:48:23,146 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:48:23,146 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:48:23,147 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:48:23,147 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:48:23,147 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:48:23,147 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:48:23,147 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 20:49:25,992 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 20:49:25,992 [MainThread  ] [INFO   ]  Create library lib2
+2025-12-05 20:49:25,992 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib2
+2025-12-05 20:49:25,992 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib2/src
+2025-12-05 20:49:25,993 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib2/include/lib2
+2025-12-05 20:49:25,993 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib2/test
+2025-12-05 20:49:25,994 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:49:25,994 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:49:25,994 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:49:25,994 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:49:25,994 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:49:25,994 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:49:25,994 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:49:25,994 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:49:25,995 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:49:25,995 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:49:25,995 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:49:25,995 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:49:25,995 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:49:25,995 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:49:25,995 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:49:25,995 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:49:25,995 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:49:25,996 [MainThread  ] [INFO   ]  Create library lib3
+2025-12-05 20:49:25,996 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib3
+2025-12-05 20:49:25,996 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib3/src
+2025-12-05 20:49:25,996 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib3/include/lib3
+2025-12-05 20:49:25,997 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/Dummy/code/libraries/lib3/test
+2025-12-05 20:49:25,998 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:49:25,998 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:49:25,998 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:49:25,999 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:49:25,999 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:49:25,999 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:49:26,000 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:49:26,000 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:49:26,000 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:49:26,000 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:49:26,000 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:49:26,000 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:49:26,001 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:49:26,001 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:49:26,001 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:49:26,001 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:49:26,001 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:49:26,001 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 20:52:00,693 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 20:52:00,693 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator
+2025-12-05 20:52:00,693 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 20:52:00,694 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code
+2025-12-05 20:52:00,694 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/applications
+2025-12-05 20:52:00,695 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries
+2025-12-05 20:52:00,697 [MainThread  ] [INFO   ]  Create application spectrum-emulator
+2025-12-05 20:52:00,697 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/applications/spectrum-emulator
+2025-12-05 20:52:00,697 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/applications/spectrum-emulator/src
+2025-12-05 20:52:00,697 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/applications/spectrum-emulator/include
+2025-12-05 20:52:00,698 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:52:00,698 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:00,698 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:52:00,698 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:52:00,698 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:00,699 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:00,699 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:00,699 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:00,699 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:00,699 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:00,699 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:52:00,699 [MainThread  ] [INFO   ]  Create library controller
+2025-12-05 20:52:00,699 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/controller
+2025-12-05 20:52:00,700 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/controller/src
+2025-12-05 20:52:00,700 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/controller/include/controller
+2025-12-05 20:52:00,700 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/controller/test
+2025-12-05 20:52:00,700 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:52:00,701 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:52:00,701 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:52:00,702 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:00,702 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:00,702 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:00,702 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:00,702 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:00,702 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:00,702 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:00,703 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:00,703 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:00,703 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:00,703 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:00,703 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:00,703 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:00,703 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:00,704 [MainThread  ] [INFO   ]  Create library model
+2025-12-05 20:52:00,704 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/model
+2025-12-05 20:52:00,704 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/model/src
+2025-12-05 20:52:00,704 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/model/include/model
+2025-12-05 20:52:00,704 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/model/test
+2025-12-05 20:52:00,705 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:52:00,705 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:52:00,705 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:52:00,705 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:00,705 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:00,705 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:00,705 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:00,706 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:00,706 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:00,706 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:00,706 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:00,706 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:00,706 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:00,706 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:00,706 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:00,706 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:00,706 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:00,707 [MainThread  ] [INFO   ]  Create library view
+2025-12-05 20:52:00,707 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/view
+2025-12-05 20:52:00,707 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/view/src
+2025-12-05 20:52:00,707 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/view/include/view
+2025-12-05 20:52:00,707 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/view/test
+2025-12-05 20:52:00,708 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:52:00,708 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:52:00,708 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:52:00,708 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:00,708 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:00,708 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:00,708 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:00,708 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:00,708 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:00,709 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:00,709 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:00,709 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:00,709 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:00,709 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:00,709 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:00,709 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:00,709 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:00,710 [MainThread  ] [INFO   ]  Create library utility
+2025-12-05 20:52:00,710 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/utility
+2025-12-05 20:52:00,710 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/utility/src
+2025-12-05 20:52:00,710 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/utility/include/utility
+2025-12-05 20:52:00,710 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/utility/test
+2025-12-05 20:52:00,710 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:52:00,711 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:52:00,711 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:52:00,711 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:00,711 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:00,711 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:00,711 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:00,711 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:00,711 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:00,711 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:00,712 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:00,712 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:00,712 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:00,712 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:00,713 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:00,713 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:00,713 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:00,714 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 20:52:25,714 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 20:52:25,714 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator
+2025-12-05 20:52:25,714 [MainThread  ] [INFO   ]  Replace field projectname
+2025-12-05 20:52:25,714 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code
+2025-12-05 20:52:25,715 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/applications
+2025-12-05 20:52:25,715 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries
+2025-12-05 20:52:25,717 [MainThread  ] [INFO   ]  Create application spectrum-emulator
+2025-12-05 20:52:25,717 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/applications/spectrum-emulator
+2025-12-05 20:52:25,717 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/applications/spectrum-emulator/src
+2025-12-05 20:52:25,717 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/applications/spectrum-emulator/include
+2025-12-05 20:52:25,718 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:52:25,718 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:25,718 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:52:25,718 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:52:25,718 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:25,718 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:25,718 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:25,718 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:25,718 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:25,719 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:25,719 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:52:25,719 [MainThread  ] [INFO   ]  Create library controller
+2025-12-05 20:52:25,719 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/controller
+2025-12-05 20:52:25,719 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/controller/src
+2025-12-05 20:52:25,719 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/controller/include/controller
+2025-12-05 20:52:25,719 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/controller/test
+2025-12-05 20:52:25,720 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:52:25,720 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:52:25,720 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:52:25,720 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:25,720 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:25,720 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:25,720 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:25,720 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:25,720 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:25,720 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:25,721 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:25,721 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:25,721 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:25,721 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:25,721 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:25,721 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:25,721 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:25,721 [MainThread  ] [INFO   ]  Create library model
+2025-12-05 20:52:25,722 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/model
+2025-12-05 20:52:25,722 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/model/src
+2025-12-05 20:52:25,722 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/model/include/model
+2025-12-05 20:52:25,722 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/model/test
+2025-12-05 20:52:25,722 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:52:25,722 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:52:25,723 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:52:25,723 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:25,723 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:25,723 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:25,723 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:25,723 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:25,723 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:25,723 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:25,724 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:25,724 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:25,724 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:25,724 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:25,724 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:25,724 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:25,724 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:25,724 [MainThread  ] [INFO   ]  Create library view
+2025-12-05 20:52:25,724 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/view
+2025-12-05 20:52:25,725 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/view/src
+2025-12-05 20:52:25,725 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/view/include/view
+2025-12-05 20:52:25,725 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/view/test
+2025-12-05 20:52:25,725 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:52:25,725 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:52:25,725 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:52:25,726 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:25,726 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:25,726 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:25,726 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:25,726 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:25,726 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:25,726 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:25,726 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:25,726 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:25,727 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:25,727 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:25,727 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:25,727 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:25,727 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:25,727 [MainThread  ] [INFO   ]  Create library utility
+2025-12-05 20:52:25,727 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/utility
+2025-12-05 20:52:25,727 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/utility/src
+2025-12-05 20:52:25,727 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/utility/include/utility
+2025-12-05 20:52:25,728 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/utility/test
+2025-12-05 20:52:25,728 [MainThread  ] [INFO   ]  Replace field libraries
+2025-12-05 20:52:25,728 [MainThread  ] [INFO   ]  Replace field project_name
+2025-12-05 20:52:25,728 [MainThread  ] [INFO   ]  Replace field project_description
+2025-12-05 20:52:25,729 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:25,729 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:25,729 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:25,729 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:25,729 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:25,729 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:25,729 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:25,729 [MainThread  ] [INFO   ]  Replace field header
+2025-12-05 20:52:25,729 [MainThread  ] [INFO   ]  Replace field year
+2025-12-05 20:52:25,730 [MainThread  ] [INFO   ]  Replace field namespace
+2025-12-05 20:52:25,730 [MainThread  ] [INFO   ]  Replace field filename
+2025-12-05 20:52:25,730 [MainThread  ] [INFO   ]  Replace field class
+2025-12-05 20:52:25,730 [MainThread  ] [INFO   ]  Replace field description
+2025-12-05 20:52:25,730 [MainThread  ] [INFO   ]  Replace field libname
+2025-12-05 20:52:25,730 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 20:52:38,886 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 20:52:38,886 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator
+2025-12-05 20:52:38,887 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code
+2025-12-05 20:52:38,887 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/applications
+2025-12-05 20:52:38,888 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries
+2025-12-05 20:52:38,889 [MainThread  ] [INFO   ]  Create application spectrum-emulator
+2025-12-05 20:52:38,889 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/applications/spectrum-emulator
+2025-12-05 20:52:38,889 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/applications/spectrum-emulator/src
+2025-12-05 20:52:38,890 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/applications/spectrum-emulator/include
+2025-12-05 20:52:38,890 [MainThread  ] [INFO   ]  Create library controller
+2025-12-05 20:52:38,890 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/controller
+2025-12-05 20:52:38,891 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/controller/src
+2025-12-05 20:52:38,891 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/controller/include/controller
+2025-12-05 20:52:38,891 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/controller/test
+2025-12-05 20:52:38,892 [MainThread  ] [INFO   ]  Create library model
+2025-12-05 20:52:38,892 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/model
+2025-12-05 20:52:38,892 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/model/src
+2025-12-05 20:52:38,892 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/model/include/model
+2025-12-05 20:52:38,892 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/model/test
+2025-12-05 20:52:38,893 [MainThread  ] [INFO   ]  Create library view
+2025-12-05 20:52:38,893 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/view
+2025-12-05 20:52:38,894 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/view/src
+2025-12-05 20:52:38,894 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/view/include/view
+2025-12-05 20:52:38,894 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/view/test
+2025-12-05 20:52:38,895 [MainThread  ] [INFO   ]  Create library utility
+2025-12-05 20:52:38,895 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/utility
+2025-12-05 20:52:38,895 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/utility/src
+2025-12-05 20:52:38,895 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/utility/include/utility
+2025-12-05 20:52:38,896 [MainThread  ] [INFO   ]  Creating directory D:/Projects/Private/SpectrumEmulator/code/libraries/utility/test
+2025-12-05 20:52:38,897 [MainThread  ] [INFO   ]  CMakeProjectGenerator done.
+2025-12-05 21:00:05,790 [MainThread  ] [INFO   ]  CMakeProjectGenerator starting
+2025-12-05 21:00:05,790 [MainThread  ] [ERROR  ]  Cannot find file D:/Projects/Private/Dummy/code/libraries/CMakeLists.txt.
+2025-12-05 21:00:05,791 [MainThread  ] [ERROR  ]  Exiting...

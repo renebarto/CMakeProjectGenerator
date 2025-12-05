@@ -1,0 +1,93 @@
+cmake_minimum_required(VERSION 3.18)
+
+message(STATUS "CMake ${CMAKE_VERSION}")
+
+set(SCRIPTS_DIR "" CACHE STRING "CMake scripts path")
+
+if ("${SCRIPTS_DIR}" STREQUAL "")
+    set(SCRIPTS_DIR "${CMAKE_SOURCE_DIR}/cmake" CACHE STRING "CMake scripts path" FORCE)
+endif()
+
+list(APPEND CMAKE_MODULE_PATH ${SCRIPTS_DIR})
+
+include(functions)
+include(macros)
+
+set_config_dir()
+
+set(OUTPUT_BASE_DIR "${CMAKE_SOURCE_DIR}/output" CACHE STRING "Output directory")
+set(OUTPUT_BIN_DIR "${OUTPUT_BASE_DIR}/${CONFIG_DIR}/bin")
+set(OUTPUT_LIB_DIR "${OUTPUT_BASE_DIR}/${CONFIG_DIR}/lib")
+
+option(VERBOSE_BUILD "Verbose build" ON)
+
+if (VERBOSE_BUILD)
+    set(CMAKE_VERBOSE_MAKEFILE ON CACHE STRING "Verbose build" FORCE)
+else()
+    set(CMAKE_VERBOSE_MAKEFILE OFF CACHE STRING "Verbose build" FORCE)
+endif()
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+set(CMAKE_COLOR_MAKEFILE   ON)
+
+message(STATUS "\n** Setting up project **\n--")
+
+message(STATUS "\n##################################################################################")
+message(STATUS "\n** Setting up toolchain **\n--")
+
+project({projectname}
+    DESCRIPTION "{projectname} overall project")
+
+set(DEFINES_C
+    )
+set(DEFINES_C_DEBUG _DEBUG)
+set(DEFINES_C_RELEASE NDEBUG)
+set(DEFINES_C_MINSIZEREL NDEBUG)
+set(DEFINES_C_RELWITHDEBINFO NDEBUG)
+set(DEFINES_ASM )
+
+set(FLAGS_C
+    /Wall
+    /WX
+)
+set(FLAGS_C_DEBUG /Od)
+set(FLAGS_C_RELEASE /O2)
+set(FLAGS_C_MINSIZEREL /O1)
+set(FLAGS_C_RELWITHDEBINFO )
+
+set(FLAGS_CXX
+    /Wall
+    /WX
+    )
+
+set(FLAGS_CXX_DEBUG /Od)
+set(FLAGS_CXX_RELEASE /O2)
+set(FLAGS_CXX_MINSIZEREL /O1)
+set(FLAGS_CXX_RELWITHDEBINFO )
+
+set(FLAGS_ASM )
+set(FLAGS_ASM_DEBUG )
+set(FLAGS_ASM_RELEASE )
+set(FLAGS_ASM_MINSIZEREL )
+set(FLAGS_ASM_RELWITHDEBINFO )
+
+set(LINK_FLAGS )
+set(LINK_FLAGS_DEBUG )
+set(LINK_FLAGS_RELEASE )
+set(LINK_FLAGS_MINSIZEREL )
+set(LINK_FLAGS_RELWITHDEBINFO )
+
+list(APPEND LINK_LIBRARIES )
+list(APPEND LINK_DIRECTORIES )
+
+set(SUPPORTED_CPP_STANDARD 20)
+
+message(STATUS "C++ compiler version:    ${CMAKE_CXX_COMPILER_VERSION}")
+message(STATUS "C compiler version:      ${CMAKE_C_COMPILER_VERSION}")
+message(STATUS "C++ supported standard:  ${SUPPORTED_CPP_STANDARD}")
+
+convert_default_options()
+
+message(STATUS "Settings:")
+message("CMAKE_VERBOSE_MAKEFILE: ${CMAKE_VERBOSE_MAKEFILE}")
+
+add_subdirectory(code)
